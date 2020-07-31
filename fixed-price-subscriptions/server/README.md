@@ -5,6 +5,8 @@ Pick the language you are most comfortable with and follow the instructions in t
 
 # Supported languages
 
+- [C# (.net)](dotnet/README.md)
+- [Go (?)](go/README.md)
 - [Java (Spark)](java/README.md)
 - [JavaScript (Node)](node/README.md)
 - [PHP (Slim)](php/README.md)
